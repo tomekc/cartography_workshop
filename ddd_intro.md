@@ -58,7 +58,7 @@ footer: © SmartRecruiters Inc, 2018
 
 ^[KS] 
 - month ago we havent good tool. We had blurry idea how to start modeling domain. 
-- During DDDEU Stefan Hofer and Henning Schwentner presented Storytelling technique basing on example of a software which helps manuver ships over river Elbe on their way to Hamburg. 
+- During DDDEU Stefan Hofer and Henning Schwentner presented Storytelling technique based on example of a software which helps manuver ships over river Elbe on their way to Hamburg. 
 
 ---
 # Domain Storytelling. How does this work?
@@ -80,9 +80,11 @@ footer: © SmartRecruiters Inc, 2018
 
 ---
 
-* Moderators ask questions and records story as a diagram
+* Moderators ask questions and record story as a diagram
 * Participants see what gets recorded and give their feedback
 * All participants agree on model created
+
+^[KS] Deprecated.... probably to be removed
 
 ---
 
@@ -101,8 +103,8 @@ footer: © SmartRecruiters Inc, 2018
 
 ---
 
-# Here lets tell why ist worth to have domains/contexts
-## Single domain should not belong to two teams etc...
+# Here lets tell why is it worth to have domains/contexts
+## Single context should not belong to two teams
 
 
 ^[All] Draft! say why we should find domains/contexts

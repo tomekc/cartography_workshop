@@ -63,9 +63,10 @@ footer: © SmartRecruiters Inc, 2018
 ---
 # Domain Storytelling. How this works?
 
+![inline] (ddd/example_story_model.png)
+
 ^[KS] 
-- Domain storytelling helps to build domain model basing on meaningfull examples
-- It consist of multiple interviews with different people who are domain experts. 
+
 
 ---
  
@@ -74,30 +75,43 @@ footer: © SmartRecruiters Inc, 2018
 ^[KS] 
 - technique set of simple rules and symbols
 - there is no symbol for conditions and parallelism
-- while considering scenario we are going to make some assumptions 
- 
+
 ---
+
+* Moderators ask questions and records story as a diagram
+* Participants see what gets recorded and give their feedback
+* All participants agree on model created
+
+---
+
 # "Three good examples are better than a bad abstraction."
 ####Peter Hruschka in Business Analysis und Requirements Engineering
 
 ^[KS]
-- Focus on single story. 
+- Focus on single scenario. 
 - Avoid distractions to consider multiple scenarios
 
 ---
 
-# Hands On!
+![inline] (ddd/whats_your_story.jpg)
 
-^[ALL]
+^[ALL] lets draw story as a diagram without any boundaries
 
 ---
 
+# Here lets tell why ist worth to have domains/contexts
+## Single domain should not belong to two teams etc...
+
+
+^[All] Draft! say why we should find domains/contexts
+
+---
 # How to identify bounded contexts
 ### Indicators of boundary:
 #### one way information flow
 #### difference in language
 #### different triggers
 
-^[KS]
+^[All] Say how to do this and try to draw boundaries
 
 ---

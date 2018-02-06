@@ -58,15 +58,17 @@ footer: © SmartRecruiters Inc, 2018
 
 ^[KS] 
 - month ago we havent good tool. We had blurry idea how to start modeling domain. 
-- During DDDEU Stefan Hofer and Henning Schwentner presented Storytelling technique basing on example of a software which helps manuver ships on river Elbe on their way to Hamburg
+- During DDDEU Stefan Hofer and Henning Schwentner presented Storytelling technique basing on example of a software which helps manuver ships over river Elbe on their way to Hamburg. 
 
 ---
-# Domain Storytelling. How this works?
+# Domain Storytelling. How does this work?
 
 ![inline] (ddd/example_story_model.png)
 
 ^[KS] 
-
+- interviews with domain experts, 
+- recording stories as a diagram, drawing it using symbols
+- feedback on recorded model
 
 ---
  

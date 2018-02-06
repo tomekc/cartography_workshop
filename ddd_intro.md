@@ -49,4 +49,55 @@ footer: © SmartRecruiters Inc, 2018
 ![](ddd/mercator_na_world_physical_wall_mural_lg.jpg)
 
 ---
+
 ![](ddd/amurica.png)
+
+---
+# Maps are easy. 
+# How to create domain model?
+
+^[KS] 
+- month ago we havent good tool. We had blurry idea how to start modeling domain. 
+- During DDDEU Stefan Hofer and Henning Schwentner presented Storytelling technique basing on example of a software which helps manuver ships on river Elbe on their way to Hamburg
+
+---
+# Domain Storytelling. How this works?
+
+^[KS] 
+- Domain storytelling helps to build domain model basing on meaningfull examples
+- It consist of multiple interviews with different people who are domain experts. 
+
+---
+ 
+![inline](ddd/storytelling_symbols.png) 
+
+^[KS] 
+- technique set of simple rules and symbols
+- there is no symbol for conditions and parallelism
+- while considering scenario we are going to make some assumptions 
+ 
+---
+# "Three good examples are better than a bad abstraction."
+####Peter Hruschka in Business Analysis und Requirements Engineering
+
+^[KS]
+- Focus on single story. 
+- Avoid distractions to consider multiple scenarios
+
+---
+
+# Hands On!
+
+^[ALL]
+
+---
+
+# How to identify bounded contexts
+### Indicators of boundary:
+#### one way information flow
+#### difference in language
+#### different triggers
+
+^[KS]
+
+---

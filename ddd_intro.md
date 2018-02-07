@@ -93,6 +93,7 @@ footer: © SmartRecruiters Inc, 2018
 
 ^[KS]
 Company from 80's
+Visa
 Single Scenario 
 Open mind
 Forget about our system - we want create something not influenced by possible bad decisions from past

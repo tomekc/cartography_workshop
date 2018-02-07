@@ -54,13 +54,21 @@ footer: © SmartRecruiters Inc, 2018
 
 ---
 # Maps are easy. 
-# How to create domain model?
+# How to build domain model?
 
 ^[KS] 
+- its an experiment.
 - month ago we havent good tool. We had blurry idea how to start modeling domain. 
+
+---
+
+![inline] (ddd/ship.jpg)
+
+^[KS]
 - During DDDEU Stefan Hofer and Henning Schwentner presented Storytelling technique based on example of a software which helps manuver ships over river Elbe on their way to Hamburg. 
 
 ---
+
 # Domain Storytelling. How does this work?
 
 ![inline] (ddd/example_story_model.png)
@@ -71,29 +79,46 @@ footer: © SmartRecruiters Inc, 2018
 - feedback on recorded model
 
 ---
- 
+# "Three good examples are better than a bad abstraction."
+####Peter Hruschka in Business Analysis und Requirements Engineering
+
+^[KS]
+- Focus on single scenario. 
+- keep concepts explicit
+- Avoid distractions to consider multiple scenarios
+
+---
+
+# Focus
+
+^[KS]
+Company
+Single Scenario
+
+---
+
+# Moderators
+
+^[KS]
+ask questions
+draw model
+
+---
+# Model
 ![inline](ddd/storytelling_symbols.png) 
 
 ^[KS] 
 - technique set of simple rules and symbols
 - there is no symbol for conditions and parallelism
 
----
-
-* Moderators ask questions and record story as a diagram
-* Participants see what gets recorded and give their feedback
-* All participants agree on model created
-
-^[KS] Deprecated.... probably to be removed
 
 ---
 
-# "Three good examples are better than a bad abstraction."
-####Peter Hruschka in Business Analysis und Requirements Engineering
+# Feedback
 
 ^[KS]
-- Focus on single scenario. 
-- Avoid distractions to consider multiple scenarios
+validate model
+let us know if you do not agree with it
 
 ---
 
@@ -103,20 +128,26 @@ footer: © SmartRecruiters Inc, 2018
 
 ---
 
-# Here lets tell why is it worth to have domains/contexts
-* Single context should not belong to two teams
-* If we want to apply DDD we need to identify bounded context first
-* Subdomain which do not give us competetive adventage can be replaced with third party solutions
+# Why we care about bounded contexts?
 
-^[All] Draft! say why we should find domains/contexts
+^[KS] 
+* Reduces accidental complexity as software becomes model of a business.
+* Splits complex problem domain to smaller one.
+* Its easier to solve problems when everything is not connected with everything
+* Single responsibility of context. Subdomain should not cross boundaries of bounded context
+* Do not share bounded contexts between teams
+* Allows to organize technical module boundaries inside subdomain which doesnt change often (if properly defined).
+
 
 ---
 # How to identify bounded contexts
-### Indicators of boundary:
-#### one way information flow
-#### difference in language
-#### different triggers
+Indicators of boundary:
+
+* one way information flow
+* difference in language
+* different triggers
 
 ^[All] Say how to do this and try to draw boundaries
 
 ---
+

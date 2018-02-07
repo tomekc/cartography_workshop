@@ -92,8 +92,10 @@ footer: © SmartRecruiters Inc, 2018
 # Focus
 
 ^[KS]
-Company
-Single Scenario
+Company from 80's
+Single Scenario 
+Open mind
+Forget about our system - we want create something not influenced by possible bad decisions from past
 
 ---
 
@@ -131,9 +133,10 @@ let us know if you do not agree with it
 # Why we care about bounded contexts?
 
 ^[KS] 
-* Reduces accidental complexity as software becomes model of a business.
+* accidental complexity, software becomes model of a business.
+* limit software changes
 * Splits complex problem domain to smaller one.
-* Its easier to solve problems when everything is not connected with everything
+* Its easier to define impact on the system
 * Single responsibility of context. Subdomain should not cross boundaries of bounded context
 * Do not share bounded contexts between teams
 * Allows to organize technical module boundaries inside subdomain which doesnt change often (if properly defined).

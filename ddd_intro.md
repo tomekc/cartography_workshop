@@ -104,8 +104,9 @@ footer: © SmartRecruiters Inc, 2018
 ---
 
 # Here lets tell why is it worth to have domains/contexts
-## Single context should not belong to two teams
-
+* Single context should not belong to two teams
+* If we want to apply DDD we need to identify bounded context first
+* Subdomain which do not give us competetive adventage can be replaced with third party solutions
 
 ^[All] Draft! say why we should find domains/contexts
 

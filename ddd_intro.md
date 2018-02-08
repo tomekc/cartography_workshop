@@ -12,9 +12,31 @@ footer: © SmartRecruiters Inc, 2018
 
 ---
 
+# Complexity of the system
+
+Cs >= Cd
+
+
+^ [TC] Every system has complexity. Complexity of system at least as domain. 
+Domain plus something
+
+---
+
+# Complexity of the system
+
+Cs ≈ Cd * (1 + ∂)
+
+^ [TC] Math notation. Delta is the accidential complexity.
+
+
+---
+
 ### Complexity of software =
 
 ### *ESSENTIAL* + ACCIDENTAL
+
+^ In other words...
+Essential: part of the domain
 
 ---
 
@@ -22,11 +44,15 @@ footer: © SmartRecruiters Inc, 2018
 
 ### ESSENTIAL + *ACCIDENTAL*
 
+^ ACCIDENTAL: brought by devs
+
 ---
 
 ![inline](ddd/complexity_tr_1.png)
 
-^ Initial commit. Built fast and it's working.
+^ Imagine a software:
+First version. 
+Built fast and it's working.
 
 ---
 
@@ -108,6 +134,8 @@ footer: © SmartRecruiters Inc, 2018
 
 # MODEL
 
+^ [TC] Database? UML Diagram?
+
 ——
 
 # “The purpose of models is not to fit the data but to sharpen the questions.” 
@@ -117,11 +145,76 @@ footer: © SmartRecruiters Inc, 2018
 
 ---
 
-![](ddd/mercator_na_world_physical_wall_mural_lg.jpg)
+![fit](ddd/world_map.jpg)
+
+^ What's wrong with this map? 
+USA in the center. 
+
+---
+
+![fit](ddd/world_map_proper.png)
+
+^ Globe on planar surface -> introduce distortion.
+Mercator projection.
+Preserve direction. Distort area. Useful for navigation.
 
 ---
 
 ![](ddd/amurica.png)
+
+^ Make america great by moving close to Russia. Badam-tss.
+
+---
+
+# Mercator's Model
+
+- Globe is a sphere
+- Coordinates on surface
+- Mercator's projection
+
+^ Abstraction. 
+- SURFACE is important.
+Data selection: coastlnes, ports and not much more.
+Choose one that asserts: preserved direction - choose MERCATOR.  
+! Elevation is optional. We leave out a lot.
+Map is USEFUL.
+
+---
+
+## Model
+
+### Not realistic
+
+^ We aren't looking for description of reality.
+Is the map realistic picture of Earth?
+
+---
+
+# Model
+
+## Serves some use, specific to a particular scenario
+
+> Essentially, all models are wrong, but some are useful
+-- George Box
+
+^ There's never only one valid model. Can evolve.
+
+---
+
+## Model
+
+### Common ground of Business & Tech
+
+^ Result of conversation modeller with domain expert.
+
+---
+
+![fit,60%](ddd/soft_as_tech.png)
+
+---
+
+![fit,60%](ddd/soft_as_business.png)
+
 
 ---
 

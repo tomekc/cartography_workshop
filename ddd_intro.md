@@ -245,24 +245,16 @@ Is the map realistic picture of Earth?
 
 ---
 
-## ”Three good examples are better than a bad abstraction."
-####Peter Hruschka in Business Analysis und Requirements Engineering
-
-^[KS]
-- Focus on single scenario. 
-- keep concepts explicit
-- Avoid distractions to consider multiple scenarios
-
----
-
 # Focus
 
 ^[KS]
 Company from 80's
-Visa
 Single Scenario 
 Open mind
 Forget about our system - we want create something not influenced by possible bad decisions from past
+Focus on single scenario. 
+keep concepts explicit
+Avoid distractions to consider multiple scenarios
 
 ---
 
@@ -280,7 +272,7 @@ draw model
 ^[KS] 
 - technique set of simple rules and symbols
 - there is no symbol for conditions and parallelism
-
+- we consider single linear case
 
 ---
 
@@ -308,17 +300,27 @@ let us know if you do not agree with it
 
 ---
 
-# Why do we care about Bounded Contexts?
+# Build software in boundaries which are unlikely to change
 
 ^[KS] 
-* accidental complexity, software becomes model of a business.
-* limit software changes
-* Splits complex problem domain to smaller one.
-* Its easier to define impact on the system
-* Single responsibility of context. Subdomain should not cross boundaries of bounded context
-* Do not share bounded contexts between teams
-* Allows to organize technical module boundaries inside subdomain which doesnt change often (if properly defined).
+ - use abstract names of business functionality for bounded contexts
+ - example of book shop, shipping now and then differs but exist as business process
 
+---
+# Software becomes model of a business.
+
+^[KS]
+- reduces accidental complexity
+- its easier to see what is accidental, what essential complexity
+- consistent nameing inside of context - easier to communicate
+
+---
+
+# Divide and conquer 
+^[KS] 
+* Splits complex problem domain to smaller one.
+* Single responsibility of context. Subdomain should not cross boundaries of bounded context
+* limit impact of a change
 
 ---
 
@@ -332,4 +334,3 @@ Indicators of boundary:
 ^[All] Say how to do this and try to draw boundaries
 
 ---
-

@@ -224,6 +224,7 @@ Is the map realistic picture of Earth?
 ## How to build domain model?
 
 ^[KS] 
+- lets build our model
 - we did research. Evans, Vernone.
 - month ago we havent complete tool for domain mapping.
 

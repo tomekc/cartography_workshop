@@ -224,9 +224,10 @@ Is the map realistic picture of Earth?
 ## How to build domain model?
 
 ^[KS] 
-- lets build our model
-- we did research. Evans, Vernone.
+- lets build our model. how?
+- research. Evans, Vernone.
 - month ago we havent complete tool for domain mapping.
+- experiment 
 
 ---
 
@@ -235,7 +236,7 @@ Is the map realistic picture of Earth?
 ^[KS]
 - During DDDEU Stefan Hofer and Henning Schwentner presented Storytelling technique based on example of a software which helps manuver ships over river Elbe on their way to Hamburg. 
 - we considered it a missing part of our findings and decided to try it.
-- looks like efficient technique
+- looks like concise and efficient technique
 
 ---
 
@@ -338,3 +339,5 @@ Indicators of boundary:
 ^[All] Say how to do this and try to draw boundaries
 
 ---
+
+

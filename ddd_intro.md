@@ -134,7 +134,8 @@ Built fast and it's working.
 
 # MODEL
 
-^ [TC] Database? UML Diagram?
+^ [TC] A tool to express a business need in code is MODEL.
+Database? UML Diagram?
 
 ——
 
@@ -211,10 +212,13 @@ Is the map realistic picture of Earth?
 
 ![fit,60%](ddd/soft_as_tech.png)
 
+^ .. they need to find common language ..
+
 ---
 
 ![fit,60%](ddd/soft_as_business.png)
 
+^ Business understands this.
 
 ---
 # How to build domain model?

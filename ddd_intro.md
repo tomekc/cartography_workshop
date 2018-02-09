@@ -221,7 +221,7 @@ Is the map realistic picture of Earth?
 ^ Business understands this.
 
 ---
-# How to build domain model?
+## How to build domain model?
 
 ^[KS] 
 - we did research. Evans, Vernone.
@@ -261,7 +261,7 @@ Company from 80's
 
 ---
 
-# Moderators
+## Moderators
 
 ^[KS]
 ask questions
@@ -279,7 +279,7 @@ draw model
 
 ---
 
-# Feedback
+## Feedback
 
 ^[KS]
 validate model
@@ -287,7 +287,7 @@ let us know if you do not agree with it
 
 ---
 
-# Nothing beats a good story
+## Nothing beats a good story
 
 ^[MG]
 - Summarise our story: The Hiring Story
@@ -303,14 +303,14 @@ let us know if you do not agree with it
 
 ---
 
-# Build software in boundaries which are unlikely to change
+## Build software in boundaries which are unlikely to change
 
 ^[KS] 
  - find abstract names of business functionality for bounded contexts
  - example of book shop, shipping now and then differs but exist as business process
 
 ---
-# Software becomes model of a business.
+## Software becomes model of a business.
 
 ^[KS]
 - reduces accidental complexity
@@ -319,7 +319,7 @@ let us know if you do not agree with it
 
 ---
 
-# Divide and conquer 
+## Divide and conquer 
 ^[KS] 
 * Splits complex problem domain to smaller one.
 * Single responsibility of context. Subdomain should not cross boundaries of bounded context

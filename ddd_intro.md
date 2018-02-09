@@ -89,6 +89,7 @@ It works, but no one knows why. Change is risky and difficult. Developers spend 
 - innovation
 - growth
 - whole businesses
+- even people
 
 —--
 

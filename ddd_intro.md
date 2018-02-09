@@ -11,7 +11,7 @@ footer: © SmartRecruiters Inc, 2018 / You Are Who You Hire
 ### Why should I care?
 
 ^ DDD is a way of developing software
-* focus on the core complexity (and opportunity) of domain
+* focus on the core complexity of domain
 * explore models in collaboration of domain and software experts
 * code that express model explicitly
 
@@ -345,5 +345,8 @@ Indicators of boundary:
 ^[All] Say how to do this and try to draw boundaries
 
 ---
+
+![](ddd/that_s_all_folks.png)
+
 
 

@@ -4,6 +4,10 @@ footer: © SmartRecruiters Inc, 2018 / You Are Who You Hire
 
 ![filtered](ddd/mercator_na_world_physical_wall_mural_lg.jpg)
 
+^ "How to prevent company from exploding"
+In Catholic doctrine is a TRINITY
+3 persons: MG + GHOST WRITERS
+
 ---
 
 # Domain driven design
@@ -32,17 +36,8 @@ Domain plus something
 
 ### Cs ≈ Cd * (1 + ∂)
 
-^ [TC] Math notation. Delta is the accidential complexity.
+^ [TC] Math notation. Delta is ... [NEXT]
 
-
----
-
-### Complexity of software =
-
-### *ESSENTIAL* + ACCIDENTAL
-
-^ In other words...
-Essential: part of the domain
 
 ---
 
@@ -50,7 +45,16 @@ Essential: part of the domain
 
 ### ESSENTIAL + *ACCIDENTAL*
 
-^ ACCIDENTAL: brought by devs
+^ Accidential complexity, that we are responsible for
+
+---
+
+### Complexity of software =
+
+### *ESSENTIAL* + ACCIDENTAL
+
+^ In constrast to ESS. - part of domain
+The complexity comes from? [NEXT]
 
 ---
 
@@ -65,12 +69,17 @@ Built fast and it's working.
 ![inline](ddd/complexity_tr_2.png)
 
 ^ Without care and consideration, we build on top and software turns into BBOM.
+Take piece of dirt, slap onto BBOM.
+This is fine.
+It works.
+Feature delivered.
 
 ---
 
 ![inline](ddd/complexity_tr_3.png)
 
-^ [TC] It works, but no one knows why. Change is risky and difficult. Developers spend time on technical complexity.
+^ [TC] After growing BBOM.
+It works, but no one knows why. Change is risky and difficult. Developers spend time on technical complexity.
 
 ---
 
@@ -143,27 +152,35 @@ Built fast and it's working.
 ^ [TC] A tool to express a business need in code is MODEL.
 Database? UML Diagram?
 
-——
+---
 
 # “The purpose of models is not to fit the data but to sharpen the questions.” 
 # — Sam Karlin 
 * Born: 1924 in Janów, Poland
 * Died: 2007 in Palo Alto, California, USA
 
+^A mean to express a business need in code is MODEL.
+Database? UML Diagram?
+
+
 ---
 
 ![fit](ddd/world_map.jpg)
 
-^ What's wrong with this map? 
+^ Let's look at MAP - example of model.
+What's wrong with this map? 
 USA in the center. 
 
 ---
 
 ![fit](ddd/world_map_proper.png)
 
-^ Globe on planar surface -> introduce distortion.
+^ Earth is not flat.
+Globe on planar surface -> introduce distortion.
 Mercator projection.
-Preserve direction. Distort area. Useful for navigation.
+Distort area. (NEXT?)
+Preserve direction.  
+Useful for navigation.
 
 ---
 
@@ -179,8 +196,8 @@ Preserve direction. Distort area. Useful for navigation.
 - Coordinates on surface
 - Mercator's projection
 
-^ Abstraction. 
-- SURFACE is important.
+^ Mercator map is a model
+ABSTRACTION (globe). 
 Data selection: coastlnes, ports and not much more.
 Choose one that asserts: preserved direction - choose MERCATOR.  
 ! Elevation is optional. We leave out a lot.
@@ -219,6 +236,8 @@ Is the map realistic picture of Earth?
 ![fit,60%](ddd/soft_as_tech.png)
 
 ^ .. they need to find common language ..
+Lets use abstract example.
+System lets people apply to job + notify.
 
 ---
 

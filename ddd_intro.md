@@ -10,6 +10,18 @@ In Catholic doctrine is a TRINITY
 
 ---
 
+# DDD
+
+---
+
+![fit](ddd/dont_drink.png)
+
+---
+
+![fit](ddd/dont_drugs.jpg)
+
+---
+
 # Domain driven design
 
 ### Why should I care?
@@ -24,7 +36,7 @@ In Catholic doctrine is a TRINITY
 
 ### Complexity of the system
 
-### Cs >= Cd
+### C<sub>s</sub> >= C<sub>d</sub>
 
 
 ^ [TC] Every system has complexity. Complexity of system at least as domain. 
@@ -34,7 +46,7 @@ Domain plus something
 
 ### Complexity of the system
 
-### Cs ≈ Cd * (1 + ∂)
+### C<sub>s</sub> ≈ C<sub>d</sub> * (1 + ∂)
 
 ^ [TC] Math notation. Delta is ... [NEXT]
 
@@ -79,7 +91,7 @@ Feature delivered.
 ![inline](ddd/complexity_tr_3.png)
 
 ^ [TC] After growing BBOM.
-It works, but no one knows why. Change is risky and difficult. Developers spend time on technical complexity.
+It works, but no one knows why. Change is risky and difficult. Developers spend time on technical complexity. [MATEUSZ]
 
 ---
 

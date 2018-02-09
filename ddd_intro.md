@@ -1,4 +1,4 @@
-footer: © SmartRecruiters Inc, 2018
+footer: © SmartRecruiters Inc, 2018 / You Are Who You Hire 
 
 ## CARTOGRAPHY 101
 
@@ -10,11 +10,17 @@ footer: © SmartRecruiters Inc, 2018
 
 ### Why should I care?
 
+^ DDD is a way of developing software
+* focus on the core complexity (and opportunity) of domain
+* explore models in collaboration of domain and software experts
+* code that express model explicitly
+
+
 ---
 
-# Complexity of the system
+### Complexity of the system
 
-Cs >= Cd
+### Cs >= Cd
 
 
 ^ [TC] Every system has complexity. Complexity of system at least as domain. 
@@ -22,9 +28,9 @@ Domain plus something
 
 ---
 
-# Complexity of the system
+### Complexity of the system
 
-Cs ≈ Cd * (1 + ∂)
+### Cs ≈ Cd * (1 + ∂)
 
 ^ [TC] Math notation. Delta is the accidential complexity.
 

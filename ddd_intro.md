@@ -109,6 +109,13 @@ It works, but no one knows why. Change is risky and difficult. Developers spend 
 
 ^[MG] We could randomly fight complexity, or... 
 
+—--
+
+## Take a 
+# step back
+
+^[MG] 
+
 ---
 
 ### Identify 

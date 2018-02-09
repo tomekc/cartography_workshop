@@ -218,7 +218,6 @@ Is the map realistic picture of Earth?
 
 ---
 
-### Maps are easy.
 # How to build domain model?
 
 ^[KS] 

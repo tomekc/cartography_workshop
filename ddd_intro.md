@@ -105,25 +105,25 @@ Built fast and it's working.
 
 ---
 
-# Competitive Advantage
+## Competitive Advantage
 
 ^[MG] Where would the improvements be most beneficial?
 
 ---
 
-# Core Domain
+## Core Domain
 
 ^[MG] This critical part of the business is the core domain
 
 ---
 
-# Supportive Domains
+## Supporting Domains
 
 ^[MG] domain
 
 ---
 
-# Generic Domains
+## Generic Domains
 
 ^[MG] Not business specific
 - Subdomains which do not give us competetive adventage can be replaced with third party solutions

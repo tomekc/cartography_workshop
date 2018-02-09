@@ -250,18 +250,21 @@ System lets people apply to job + notify.
 
 ^[KS] 
 - lets build our model. how?
+- there is no recipe
 - research. Evans, Vernone.
-- month ago we havent complete tool for domain mapping.
-- experiment 
+- we gathered some advices
+- experience matters
+- experiment with it
 
 ---
 
 ![inline] (ddd/ship.jpg)
 
 ^[KS]
-- During DDDEU Stefan Hofer and Henning Schwentner presented Storytelling technique based on example of a software which helps manuver ships over river Elbe on their way to Hamburg. 
+- Stefan Hofer and Henning Schwentner
+- river Elbe, Hamburg
 - we considered it a missing part of our findings and decided to try it.
-- looks like concise and efficient technique
+- looks like concise and documented technique
 
 ---
 
@@ -279,11 +282,10 @@ System lets people apply to job + notify.
 # Focus
 
 ^[KS]
-Single Scenario 
 Avoid distractions to consider multiple scenarios
+Single Scenario 
 Open mind
-Forget about our system - we want create something not influenced by possible bad decisions from past
-keep concepts explicit
+Forget about our system
 Company from 80's
 
 ---
@@ -303,6 +305,8 @@ draw model
 - technique set of simple rules and symbols
 - there is no symbol for conditions and parallelism
 - we consider single linear case
+- keep concepts explicit
+- nameing is important
 
 ---
 

@@ -217,12 +217,11 @@ Is the map realistic picture of Earth?
 
 
 ---
-
 # How to build domain model?
 
 ^[KS] 
-- its an experiment.
-- month ago we havent good tool. We had blurry idea how to start modeling domain. 
+- we did research. Evans, Vernone.
+- month ago we havent complete tool for domain mapping.
 
 ---
 
@@ -230,6 +229,8 @@ Is the map realistic picture of Earth?
 
 ^[KS]
 - During DDDEU Stefan Hofer and Henning Schwentner presented Storytelling technique based on example of a software which helps manuver ships over river Elbe on their way to Hamburg. 
+- we considered it a missing part of our findings and decided to try it.
+- looks like efficient technique
 
 ---
 
@@ -247,13 +248,12 @@ Is the map realistic picture of Earth?
 # Focus
 
 ^[KS]
-Company from 80's
 Single Scenario 
+Avoid distractions to consider multiple scenarios
 Open mind
 Forget about our system - we want create something not influenced by possible bad decisions from past
-Focus on single scenario. 
 keep concepts explicit
-Avoid distractions to consider multiple scenarios
+Company from 80's
 
 ---
 
@@ -302,7 +302,7 @@ let us know if you do not agree with it
 # Build software in boundaries which are unlikely to change
 
 ^[KS] 
- - use abstract names of business functionality for bounded contexts
+ - find abstract names of business functionality for bounded contexts
  - example of book shop, shipping now and then differs but exist as business process
 
 ---

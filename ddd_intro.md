@@ -263,7 +263,20 @@ System lets people apply to job + notify.
 
 ![fit,60%](ddd/soft_as_business.png)
 
-^ Business understands this.
+^ Business understands this. 
+[NEXT]
+
+
+---
+
+A SINGLE MODEL
+
+![inline,fit](ddd/model_expressed_as.png)
+
+^ 
+Abstraction of reality NOT reflection.
+1 Model in CODE + LANGUAGE + DOCS + DIAGRAMS
+[KAROL]
 
 ---
 ## How to build domain model?
